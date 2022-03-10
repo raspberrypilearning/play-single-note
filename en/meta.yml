@@ -1,11 +1,9 @@
 title: Play a single note
 hero_image: images/banner.png
-description: play-single-note description
+description: Play a single note
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-03-10"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Play a single note
