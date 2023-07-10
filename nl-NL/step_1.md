@@ -1,4 +1,4 @@
-Play a note and wait for it to finish:
+Speel een noot en wacht tot deze is afgelopen:
 
 --- code ---
 ---
