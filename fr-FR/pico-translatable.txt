@@ -1,2 +1,2 @@
 c_note
-speaker
+haut_parleur
