@@ -1,4 +1,4 @@
-Play a note and wait for it to finish:
+Joue une note et attends qu'elle se termine :
 
 --- code ---
 ---
